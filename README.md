@@ -2,6 +2,9 @@
 
 Electron Platform for Angular 2. Work in progress.
 
+## Install Typescript
+`npm install typescript@1.7`
+
 ## Testing the demo
 
 Make sure to have NodeJS version 5.x.x installed.
